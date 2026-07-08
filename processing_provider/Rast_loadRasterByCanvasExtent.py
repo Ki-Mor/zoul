@@ -232,4 +232,4 @@ class LoadRasterByCanvasExtent(QgsProcessingAlgorithm):
         return {}
 
     def icon(self):
-        return QIcon(os.path.join(os.path.dirname(os.path.dirname(__file__)), 'icons', 'Zoul.png'))
+        return QIcon(os.path.join(os.path.dirname(os.path.dirname(__file__)), 'icons', 'ZoulPixArt20.png'))

@@ -27,7 +27,7 @@ tags=python
 
 homepage=
 category=Analysis
-icon=icons/Zoul.png
+icon=icons/ZoulPixArt20-20.png
 # experimental flag
 experimental=True
 
